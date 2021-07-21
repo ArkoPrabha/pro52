@@ -1,0 +1,15 @@
+
+h5{display: flex;flex-direction: column;justify-content: center;}
+.header{display: flex;justify-content: center;flex-direction:column; }
+.header1{display: flex;justify-content: space-evenly; }
+h6{display: flex;flex-direction: column;justify-content: center;}
+.camel{display: flex;flex-direction: column;justify-content: space-between;color: #00008B;}
+.chameleon{display: flex;flex-direction: column;justify-content: space-between;color: #b8860b;margin-right: 30px;}
+h1{color: #dc143c;display: flex;justify-content: center;}
+.pigeon{display: flex;flex-direction: column;justify-content:center;color: #8B0000;margin-left: 50px;}
+.header2{display: flex;justify-content: space-between;flex-direction: row;}
+.teddy{display: flex;justify-content: center;flex-direction: column;color: #2f4f4f;}
+.header3{display: flex;justify-content: space-between;flex-direction: row;}
+.panda{display: flex;justify-content: space-between;flex-direction:column;color: #e75480;}
+.cicada{display: flex;justify-content: space-between;flex-direction: column;color: #00fa9a;position: relative;}
+.cicada:hover p{opacity:0.5 ;}
